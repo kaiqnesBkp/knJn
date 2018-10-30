@@ -13,6 +13,7 @@ function recebeArray(x){
     }
 }
 
+
 /*
 Imprima o segundo índice do array retornado pela função criada acima.
 */
